@@ -1,7 +1,7 @@
 # Version 2.3
 
-FROM centos:centos6
-MAINTAINER Bernardo Gomez Palacio <bernardo.gomezpalacio@gmail.com>
+FROM centos:v6.5
+MAINTAINER Bernardo Gomez Palacio <tdwei163@gmail.com>
 ENV REFRESHED_AT 2015-03-19
 
 # Install EPEL to have MySQL packages.

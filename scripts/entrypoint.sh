@@ -11,7 +11,7 @@ if [ ! -f "$_file_marker" ]; then
 
 	sleep 10s
 
-	export MYSQL_PASSWORD="mypassword"
+	export MYSQL_PASSWORD="Mysql123!"
 
 	echo "mysql root and admin password: $MYSQL_PASSWORD"
 
